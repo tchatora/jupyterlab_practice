@@ -1,8 +1,6 @@
-# jupyterlab_practice
+# Assignment #7 of the UBC - Data Science Toolbox Course.
 
 Author: Tinashe Chatora
-
-# Assignment #7 of the UBC - Data Science Toolbox Course.
 
 In this assignment we are practicing some of the useful functionalities in JupyterLab. It is one of the most popular developent environments and has many function that are well suited to data science projects.
 
